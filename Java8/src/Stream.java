@@ -4,5 +4,8 @@ public class Stream {
 	{
 		System.out.println("abc");
 		System.out.println("jkl");
+		System.out.println("abc");
+		System.out.println("jkl");
+
 	}
 }
