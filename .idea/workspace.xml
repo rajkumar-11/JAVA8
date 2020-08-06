@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58471232-8619-4d38-a9bc-49ba83f1e42d" name="Default Changelist" comment="" />
+    <list default="true" id="58471232-8619-4d38-a9bc-49ba83f1e42d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java8/Stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java8/Stream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stream.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +55,14 @@
     <property name="project.structure.side.proportion" value="0.2551724" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
-  <component name="RunManager" selected="Application.Stream">
+  <component name="RunManager" selected="Application.Sorting">
+    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting" />
+      <module name="java8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stream" />
       <module name="java8" />
@@ -81,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.Stream" />
         <item itemvalue="Application.Test" />
       </list>
@@ -156,22 +169,22 @@
       <screen x="67" y="0" width="1853" height="1080" />
     </state>
     <state x="771" y="246" width="424" height="585" key="FileChooserDialogImpl/67.0.1853.1080@67.0.1853.1080" timestamp="1596132085271" />
-    <state width="1807" height="287" key="GridCell.Tab.0.bottom" timestamp="1596168423440">
+    <state width="1807" height="366" key="GridCell.Tab.0.bottom" timestamp="1596476334097">
       <screen x="67" y="0" width="1853" height="1080" />
     </state>
-    <state width="1807" height="287" key="GridCell.Tab.0.bottom/67.0.1853.1080@67.0.1853.1080" timestamp="1596168423440" />
-    <state width="1807" height="287" key="GridCell.Tab.0.center" timestamp="1596168423440">
+    <state width="1807" height="366" key="GridCell.Tab.0.bottom/67.0.1853.1080@67.0.1853.1080" timestamp="1596476334097" />
+    <state width="1807" height="366" key="GridCell.Tab.0.center" timestamp="1596476334097">
       <screen x="67" y="0" width="1853" height="1080" />
     </state>
-    <state width="1807" height="287" key="GridCell.Tab.0.center/67.0.1853.1080@67.0.1853.1080" timestamp="1596168423440" />
-    <state width="1807" height="287" key="GridCell.Tab.0.left" timestamp="1596168423440">
+    <state width="1807" height="366" key="GridCell.Tab.0.center/67.0.1853.1080@67.0.1853.1080" timestamp="1596476334097" />
+    <state width="1807" height="366" key="GridCell.Tab.0.left" timestamp="1596476334097">
       <screen x="67" y="0" width="1853" height="1080" />
     </state>
-    <state width="1807" height="287" key="GridCell.Tab.0.left/67.0.1853.1080@67.0.1853.1080" timestamp="1596168423440" />
-    <state width="1807" height="287" key="GridCell.Tab.0.right" timestamp="1596168423440">
+    <state width="1807" height="366" key="GridCell.Tab.0.left/67.0.1853.1080@67.0.1853.1080" timestamp="1596476334097" />
+    <state width="1807" height="366" key="GridCell.Tab.0.right" timestamp="1596476334097">
       <screen x="67" y="0" width="1853" height="1080" />
     </state>
-    <state width="1807" height="287" key="GridCell.Tab.0.right/67.0.1853.1080@67.0.1853.1080" timestamp="1596168423440" />
+    <state width="1807" height="366" key="GridCell.Tab.0.right/67.0.1853.1080@67.0.1853.1080" timestamp="1596476334097" />
     <state x="573" y="285" width="819" height="507" key="NewModule_or_Project.wizard" timestamp="1596086385220">
       <screen x="67" y="0" width="1853" height="1080" />
     </state>
@@ -196,6 +209,10 @@
       <screen x="67" y="0" width="1853" height="1080" />
     </state>
     <state x="657" y="246" key="run.anything.popup/67.0.1853.1080@67.0.1853.1080" timestamp="1596129437297" />
+    <state x="656" y="237" key="search.everywhere.popup" timestamp="1596476270882">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="656" y="237" key="search.everywhere.popup/67.0.1853.1080@67.0.1853.1080" timestamp="1596476270882" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java8$Test.ic" NAME="Test Coverage Results" MODIFIED="1596131966101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
