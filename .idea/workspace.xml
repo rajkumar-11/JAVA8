@@ -19,11 +19,77 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58471232-8619-4d38-a9bc-49ba83f1e42d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sorting.java" afterDir="false" />
+    <list default="true" id="58471232-8619-4d38-a9bc-49ba83f1e42d" name="Default Changelist" comment="observer design pattern">
+      <change afterPath="$PROJECT_DIR$/../.idea/git.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamelHelloWorld/.idea/CamelHelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CouchBased/.idea/CouchBased.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advanceJAXRS/.idea/advanceJAXRS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advanced-JAXRS/.idea/advanced-JAXRS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advanced-JAXRS/advanced-JAXRS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithm/src/GfG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithm/src/LinkedList/FindingMiddleElementInALinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithm/src/String/LongestCommonPrefixInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apachecameljaxrs/.idea/apachecameljaxrs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apachecameljunit/.idea/apachecameljunit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camelactivemq/.idea/camelactivemq.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camelfiletransfer/.idea/camelfiletransfer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camelroutingslipeip/.idea/camelroutingslipeip.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camelspringintegration/.idea/camelspringintegration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../camelsql/.idea/camelsql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArbitaryObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Flavor1Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Flavor2Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Float2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InstanceMethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodLocalVariableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodReferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfNullable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StaticMethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WildcardDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localInner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/.idea/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CouchBased/CouchBased.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CouchBased/CouchBased.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA8/JAVA8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA8/src/Stream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestMessanger" beforeDir="false" afterPath="$PROJECT_DIR$/../RestMessanger" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringAop" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringAop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringTutorial" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringTutorial" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apachecameljaxrs/apachecameljaxrs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../apachecameljaxrs/apachecameljaxrs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apachecameljunit/apachecameljunit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../apachecameljunit/apachecameljunit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../camelactivemq/camelactivemq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../camelactivemq/camelactivemq.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../camelfiletransfer/camelfiletransfer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../camelfiletransfer/camelfiletransfer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../camelroutingslipeip/camelroutingslipeip.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../camelroutingslipeip/camelroutingslipeip.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../camelspringintegration/camelspringintegration.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../camelspringintegration/camelspringintegration.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/Stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java8/Stream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java8/Stream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java8/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java8/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Counting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Map.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,64 +107,86 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fOPJEBAoSUJ5FFem0Uxf7WLwwv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RestMessanger" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2551724" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Sorting">
-    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Flavor1Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Flavor1Demo" />
       <module name="java8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stream" />
-      <module name="java8" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="JavaIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaIterator" />
       <module name="java8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="abc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="java8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WildcardDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WildcardDemo" />
+      <module name="java8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.java" />
+      <module name="java8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="staticExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticExample" />
+      <module name="java8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.java" />
+      <item itemvalue="Application.JavaIterator" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.WildcardDemo" />
+      <item itemvalue="Application.Flavor1Demo" />
+      <item itemvalue="Application.staticExample" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sorting" />
-        <item itemvalue="Application.Stream" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.staticExample" />
+        <item itemvalue="Application.Flavor1Demo" />
+        <item itemvalue="Application.WildcardDemo" />
+        <item itemvalue="Application.JavaIterator" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -124,7 +212,56 @@
       <option name="project" value="LOCAL" />
       <updated>1596132434299</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="correcting the structure">
+      <created>1596685110868</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596685110869</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new learning">
+      <created>1596969841682</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596969841682</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new learning">
+      <created>1600658863452</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600658863453</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new learning">
+      <created>1600679902570</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600679902570</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new learning">
+      <created>1600679999202</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600679999202</updated>
+    </task>
+    <task id="LOCAL-00008" summary="observer design pattern">
+      <created>1600681969830</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600681969830</updated>
+    </task>
+    <task id="LOCAL-00009" summary="observer design pattern">
+      <created>1604336086444</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604336086444</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,77 +279,25 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="correcting the structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="correcting the structure" />
+    <MESSAGE value="new learning" />
+    <MESSAGE value="observer design pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="observer design pattern" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="476" y="116" width="1024" height="845" key="#Project_Structure" timestamp="1596130990460">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state x="476" y="116" width="1024" height="845" key="#Project_Structure/67.0.1853.1080@67.0.1853.1080" timestamp="1596130990459" />
-    <state x="756" y="221" width="726" height="771" key="#Test" timestamp="1596166830674">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state x="756" y="221" width="726" height="771" key="#Test/67.0.1853.1080@67.0.1853.1080" timestamp="1596166830674" />
-    <state x="451" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596166922783">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state x="451" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.0.1853.1080@67.0.1853.1080" timestamp="1596166922783" />
-    <state x="721" y="330" width="525" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596166821901">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state x="721" y="330" width="525" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog/67.0.1853.1080@67.0.1853.1080" timestamp="1596166821901" />
-    <state x="529" y="87" width="912" height="904" key="CommitChangelistDialog2" timestamp="1596132434068">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state x="529" y="87" width="912" height="904" key="CommitChangelistDialog2/67.0.1853.1080@67.0.1853.1080" timestamp="1596132434068" />
-    <state x="771" y="246" width="424" height="585" key="FileChooserDialogImpl" timestamp="1596132085271">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state x="771" y="246" width="424" height="585" key="FileChooserDialogImpl/67.0.1853.1080@67.0.1853.1080" timestamp="1596132085271" />
-    <state width="1807" height="366" key="GridCell.Tab.0.bottom" timestamp="1596476334097">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state width="1807" height="366" key="GridCell.Tab.0.bottom/67.0.1853.1080@67.0.1853.1080" timestamp="1596476334097" />
-    <state width="1807" height="366" key="GridCell.Tab.0.center" timestamp="1596476334097">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state width="1807" height="366" key="GridCell.Tab.0.center/67.0.1853.1080@67.0.1853.1080" timestamp="1596476334097" />
-    <state width="1807" height="366" key="GridCell.Tab.0.left" timestamp="1596476334097">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state width="1807" height="366" key="GridCell.Tab.0.left/67.0.1853.1080@67.0.1853.1080" timestamp="1596476334097" />
-    <state width="1807" height="366" key="GridCell.Tab.0.right" timestamp="1596476334097">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state width="1807" height="366" key="GridCell.Tab.0.right/67.0.1853.1080@67.0.1853.1080" timestamp="1596476334097" />
-    <state x="573" y="285" width="819" height="507" key="NewModule_or_Project.wizard" timestamp="1596086385220">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state x="573" y="285" width="819" height="507" key="NewModule_or_Project.wizard/67.0.1853.1080@67.0.1853.1080" timestamp="1596086385220" />
-    <state x="476" y="116" width="1024" height="844" key="SettingsEditor" timestamp="1596166791963">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state x="476" y="116" width="1024" height="844" key="SettingsEditor/67.0.1853.1080@67.0.1853.1080" timestamp="1596166791963" />
-    <state x="588" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596132436573">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state x="588" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2/67.0.1853.1080@67.0.1853.1080" timestamp="1596132436573" />
-    <state x="772" y="157" width="432" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596130539699">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state x="772" y="157" width="432" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.0.1853.1080@67.0.1853.1080" timestamp="1596130539699" />
-    <state x="297" y="140" width="1372" height="796" key="new project wizard" timestamp="1596166790156">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state x="297" y="140" width="1372" height="796" key="new project wizard/67.0.1853.1080@67.0.1853.1080" timestamp="1596166790156" />
-    <state x="657" y="246" key="run.anything.popup" timestamp="1596129437297">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state x="657" y="246" key="run.anything.popup/67.0.1853.1080@67.0.1853.1080" timestamp="1596129437297" />
-    <state x="656" y="237" key="search.everywhere.popup" timestamp="1596476270882">
-      <screen x="67" y="0" width="1853" height="1080" />
-    </state>
-    <state x="656" y="237" key="search.everywhere.popup/67.0.1853.1080@67.0.1853.1080" timestamp="1596476270882" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../algorithm/src/String/PermutationsOfAGivenString.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sorting.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java8$Test.ic" NAME="Test Coverage Results" MODIFIED="1596131966101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
