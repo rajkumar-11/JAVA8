@@ -1,5 +1,6 @@
 interface Sayable1{
-    void say();
+    void  say();
+
 }
 public class MethodReference {
     public void saySomething(){
